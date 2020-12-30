@@ -6,7 +6,7 @@ function renderLicenseBadge(license) {
   } else {
     
     return `
-    ![License](https://img.shields.io/badge/license-${license}-informational.svg)
+    ![license](https://img.shields.io/badge/license-'+ license + '-informational)
     ` 
   }
 }
