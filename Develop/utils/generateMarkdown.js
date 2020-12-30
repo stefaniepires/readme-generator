@@ -1,12 +1,14 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  let licenseArr = license.map(license => {
+  if(license === 'None' || license === '') { 
+    return ''
+  } else {
+    
     return `
     ![License](https://img.shields.io/badge/license-${license}-informational.svg)
     ` 
-  })
-  return licenseArr;
+  }
 }
 
 // TODO: Create a function that returns the license link
