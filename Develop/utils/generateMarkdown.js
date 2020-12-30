@@ -60,16 +60,17 @@ function generateMarkdown(data) {
   - [Questions](#questions)
 
   ### Installation
-  ${data.installation}
+  ${data.packages}
+  ${data.technologies}
   
   ### Usage
   ${data.usage}
   
-  ### License
+
   ${renderLicenseSection(data.license)}
 
   ### Tests
-  ${data.test}
+  ${data.testing}
 
   ### Contributors
   ${data.contributors}

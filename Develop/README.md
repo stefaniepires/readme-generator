@@ -1,4 +1,4 @@
-# README Generator
+# Professional README Generator
   
     ![License](https://img.shields.io/badge/license-MIT-informational.svg)
     
@@ -14,22 +14,23 @@
   - [Questions](#questions)
 
   ### Installation
-  undefined
+  inquirer
+  Node.js, Javascript ES6+, NPM Inquirer package
   
   ### Usage
+  Use this as a template to generate a README.md file for your projects.
   
-  
-  ### License
+
    
   ### License 
   This application is covered under the [MIT license](https://choosealicense.com/licenses/mit/)
   
 
   ### Tests
-  undefined
+  
 
   ### Contributors
-  
+  Stefanie Tinsley
 
   ### Questions?
   Contact me at 
