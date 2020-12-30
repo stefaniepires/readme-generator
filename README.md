@@ -14,7 +14,6 @@
   - [Questions](#questions)
 
   ### Installation
-  inquirer
   Node.js, Javascript ES6+, NPM Inquirer package
   
   ### Usage
