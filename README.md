@@ -36,5 +36,5 @@
 
   ### Questions?
   Contact me at 
-  Email: stefaniectinsley@gmail.com
-  GitHub: https://github.com/steftinsley
+  Email: stefaniepires91@gmail.com
+  GitHub: https://github.com/stefaniepires
